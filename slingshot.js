@@ -24,7 +24,7 @@ class SlingShot{
             var pointB = this.pointB;
             
             strokeWeight(4)
-            stroke("coral")
+            stroke("purple")
             line (pointA.x, pointA.y, pointB.x, pointB.y)
         } 
         
